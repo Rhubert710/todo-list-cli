@@ -44,7 +44,7 @@ You have 1 to-do item(s).
 [2] Complete a to-do item
 > 1
 
-~ Creating a new to-do item ~
+
 What is this to-do item called?
 > Buy groceries
 
