@@ -57,6 +57,8 @@ while(running == true){
  
         //get item to complete
         let itemToComplete = prompt("> ");
+
+        //update list
         is_complete[itemToComplete-1] = '[completed] ';
     }
 }
