@@ -1,6 +1,7 @@
 const prompt = require('prompt-sync')();
 
 
+//defing variables
 let running = true;
 let todo_list = [];
 let is_complete = [];
@@ -10,6 +11,7 @@ let choice = 0;
 //greeting message
 console.log('\n\nWelcome to the To-Do List Manager Application!');
 
+//start of program
 while(running == true){
     console.log('\n==============================================\n')
 
